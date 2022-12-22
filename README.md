@@ -7,9 +7,9 @@ ___
 	<br/>1. User;
 	<br/>2. Role.
 <br/>Таблица "User" состоит из трех столбцов:
-	<br/>* idUser;
-	<br/>* name;
-	<br/>* idRole.
+	<br/> *idUser;
+	<br/> *name;
+	<br/> *idRole.
 <br/>Таблица "Role" состоит из трех столбцов:
 	<br/>* idRole;
 	<br/>* name.
